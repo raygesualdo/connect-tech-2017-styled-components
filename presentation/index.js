@@ -213,13 +213,23 @@ export default function Presentation() {
         <Heading>Complex Example</Heading>
         <Notes>
           {md.render(`
-- ???
+- Passed props
+- Responding to props
+- .extends
+- .attrs
+- Themes
           `)}
         </Notes>
       </Slide>
       <Slide>
         <Heading>More To Learn</Heading>
         <List>
+          <Appear>
+            <ListItem>Animations</ListItem>
+          </Appear>
+          <Appear>
+            <ListItem>Theming</ListItem>
+          </Appear>
           <Appear>
             <ListItem>JavaScript "mixins"</ListItem>
           </Appear>
