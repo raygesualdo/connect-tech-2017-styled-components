@@ -215,6 +215,7 @@ export default function Presentation() {
           {md.render(`
 - Passed props
 - Responding to props
+- .withComponent
 - .extends
 - .attrs
 - Themes
