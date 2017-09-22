@@ -309,6 +309,22 @@ export default function Presentation() {
           </ListItem>
           <ListItem>
             <Link
+              href="https://codesandbox.io/s/qvy8lwqz26"
+              textColor="secondary"
+            >
+              Connect.Tech 2017 styled-components Simple Example - Final<br />&nbsp;
+            </Link>
+          </ListItem>
+          <ListItem>
+            <Link
+              href="https://codesandbox.io/s/81pwqx7v2l"
+              textColor="secondary"
+            >
+              Connect.Tech 2017 styled-components Complex Example - Final<br />&nbsp;
+            </Link>
+          </ListItem>
+          <ListItem>
+            <Link
               href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals"
               textColor="secondary"
             >
