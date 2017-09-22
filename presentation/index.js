@@ -218,7 +218,6 @@ export default function Presentation() {
 - .withComponent
 - .extends
 - .attrs
-- Themes
           `)}
         </Notes>
       </Slide>
@@ -227,6 +226,9 @@ export default function Presentation() {
         <List>
           <Appear>
             <ListItem>Animations</ListItem>
+          </Appear>
+          <Appear>
+            <ListItem>Global Styles</ListItem>
           </Appear>
           <Appear>
             <ListItem>Theming</ListItem>
